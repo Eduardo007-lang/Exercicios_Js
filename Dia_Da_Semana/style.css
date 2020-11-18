@@ -1,0 +1,37 @@
+body{
+    background: rgba(0, 0, 255, 0.603);
+
+    color: white;
+   
+
+}
+header{
+    color: white;
+    text-align: center;
+    font: normal 15px Arial;
+}
+section{
+    background: pink;
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.377);
+    
+
+}
+div{
+    color:black;
+    font: normal 18px Arial, Helvetica, sans-;
+    text-align: center;
+    padding: 15px;
+}
+img#imagem{
+    border-radius:15px;
+}
+footer{
+    color: white;
+    text-align: center;
+    font-style: italic;
+
+}
